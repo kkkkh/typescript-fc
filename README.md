@@ -1,7 +1,10 @@
 ## typescript-fc
 
 About ts common skills and sum
+
 关于ts的常用技巧以及总结
+
+[github 代码地址](https://github.com/kkkkh/typescript-fc)
 
 #### 兼容旧代码
 - 场景：
@@ -137,3 +140,5 @@ type AddReturnType = ReturnType<typeof add>; // number
 const result: AddReturnType = add(3, 5);
 console.log(result); // 输出：8
 ```
+
+[github 代码地址](https://github.com/kkkkh/typescript-fc)
